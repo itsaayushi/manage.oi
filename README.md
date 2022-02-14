@@ -1,2 +1,2 @@
 # manage.oi
-Student info management program in python using tkinter with mysql database.
+It is a python program for managing student information created using tkinter (GUI library) with mysql database.
